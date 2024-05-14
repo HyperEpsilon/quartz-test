@@ -29,3 +29,35 @@
 > | --- | --- |
 > | Exports | `=this.exports` |
 > | Imports | `=this.imports` |
+
+## Overview
+
+
+## Inhabitants
+
+
+### Organizations
+
+
+### Notable Inhabitants
+
+
+
+> [!NOTE]- NPCs
+> Two dataview queries, one under each heading: "Active in this location", "Home in this location"
+> query on the NPC's properties of `locations-active` and `locations-home`
+
+## Notable Locations
+
+
+
+## History
+
+
+## Additional Details
+
+
+
+
+# Scratch zone
+
