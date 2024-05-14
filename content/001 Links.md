@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"path":"001 Links.md","permalink":"/001-links/","PassFrontmatter":true}
 ---
+
 [[002 Hidden page\|002 Hidden page]]
 
 [[003 Non published page\|003 Non published page]]
