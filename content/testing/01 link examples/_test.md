@@ -3,4 +3,29 @@
 ---
 
 
-A
+> [!infobox|wikipedia no-th]+
+> # _test
+> ![[placeholder.bmp]]
+> ###### Geography
+> | Type |  Stat |
+> | --- | --- |
+> | Type | Settlement |
+> | Size | `=this.size` |
+> | Region | [[testing/01 link examples/example province\|example province]],[[testing/01 link examples/example country\|example country]] |
+> ###### Society
+> | Type |  Stat |
+> | --- | --- |
+> | Demonym | `=this.demonym` |
+> | Races | `=this.commonraces` |
+> | Religions | `=this.religion`  |
+> | Guilds & Groups | `=this.guilds-groups` |
+> ###### Politics
+> | Type |  Stat |
+> | --- | --- |
+> | Gov't Type | `=this.politics` |
+> | Ruler | `=this.leader` |
+> ###### Commerce
+> | Type |  Stat |
+> | --- | --- |
+> | Exports | `=this.exports` |
+> | Imports | `=this.imports` |
