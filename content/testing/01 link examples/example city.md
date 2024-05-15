@@ -57,7 +57,7 @@
 ## Additional Details
 
 
-
+[[testing/01 link examples/example province\|example province]]<br>[[testing/01 link examples/example country\|example country]]
 
 # Scratch zone
 
