@@ -1,7 +1,7 @@
 ---
-home: true
-publish: true
+{"home":true,"publish":true,"path":"000 Home.md","permalink":"/000-home/","PassFrontmatter":true}
 ---
+
 ## Welcome
 
 Welcome to the digital garden testing vault! 
