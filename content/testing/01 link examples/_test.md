@@ -3,7 +3,7 @@
 ---
 
 
-> [!note|wikipedia no-th]+
+> [!infobox|wikipedia no-th]+
 > # _test
 > ![placeholder.bmp](../../A%20Assets/placeholder.bmp)
 > ###### Geography
