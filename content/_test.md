@@ -3,7 +3,7 @@
 ---
 
 
-> [!info|foo]+
+> [!info]+
 > # _test
 > ![placeholder.bmp](A%20Assets/placeholder.bmp)
 > ###### Geography
