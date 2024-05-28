@@ -29,6 +29,6 @@
 ## Additional Details
 
 
-[[testing/01 link examples/example country\|example country]]
+[[testing/01 link examples/example country.md|example country]]
 # Scratch zone
 

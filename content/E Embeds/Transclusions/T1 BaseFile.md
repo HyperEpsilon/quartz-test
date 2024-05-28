@@ -12,7 +12,7 @@ publish: false
 ---
 How deep can you go? 
 
-[[E Embeds/Transclusions/files/T4 Deeper\|T4 Deeper]]
+[[T4 Deeper]]
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -39,7 +39,7 @@ publish: false
 ---
 There must be a limit!!!
 
-[[E Embeds/Transclusions/T1 BaseFile\|T1 BaseFile]] recursive linking yay
+[[T1 BaseFile]] recursive linking yay
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -51,7 +51,7 @@ publish: false
 ---
 This is as far as we can go! Or is it???
 
-![[E Embeds/Transclusions/T2 Too deep to transclude\| This transclusion will be left out :(())]]
+![[T2 Too deep to transclude| This transclusion will be left out :(())]]
 
 </div></div>
 
