@@ -5,7 +5,7 @@
 
 > [!info|foo]+
 > # _test
-> ![[placeholder.bmp]]
+> ![placeholder.bmp](A%20Assets/placeholder.bmp)
 > ###### Geography
 > | Type |  Stat |
 > | --- | --- |
@@ -61,4 +61,4 @@
 
 # Scratch zone
 
-![[placeholder - Copy.png]]
+![placeholder - Copy.png](A%20Assets/placeholder%20-%20Copy.png)

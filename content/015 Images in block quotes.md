@@ -5,29 +5,29 @@
 
 ### Png
 
-> ![[placeholder - Copy.png]]
+> ![placeholder - Copy.png](A%20Assets/placeholder%20-%20Copy.png)
 
 
 ### bmp
 
-> ![[placeholder.bmp]]
+> ![placeholder.bmp](A%20Assets/placeholder.bmp)
 
 
 ## Callouts
 
 > [!NOTE] Valid Callout
-> ![[placeholder.bmp|100]]
-> ![[placeholder - Copy.png|100]]
+> ![placeholder.bmp|100](A%20Assets/placeholder.bmp)
+> ![placeholder - Copy.png|100](A%20Assets/placeholder%20-%20Copy.png)
 
 
 
 > [!custom]- Custom (invalid) Callout
-> ![[placeholder.bmp|100]]
-> ![[placeholder - Copy.png|100]]
+> ![placeholder.bmp|100](A%20Assets/placeholder.bmp)
+> ![placeholder - Copy.png|100](A%20Assets/placeholder%20-%20Copy.png)
 
 
 > [!custom]+ Custom (invalid) Callout
-> ![[placeholder.bmp|100]]
-> ![[placeholder - Copy.png|100]]
+> ![placeholder.bmp|100](A%20Assets/placeholder.bmp)
+> ![placeholder - Copy.png|100](A%20Assets/placeholder%20-%20Copy.png)
 
 Modifed file

@@ -2,4 +2,4 @@
 publish: true
 ---
 
-![[travolta.webp]]
+![travolta.webp](../A%20Assets/travolta.webp)

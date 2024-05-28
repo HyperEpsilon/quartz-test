@@ -5,7 +5,7 @@
 
 > [!infobox|wikipedia no-th]+
 > # NPC 2 Ally
-> ![[placeholder.bmp]]
+> ![placeholder.bmp](../../A%20Assets/placeholder.bmp)
 > ### Basic Information
 > | Type |  Stat |
 > | --- | --- |
