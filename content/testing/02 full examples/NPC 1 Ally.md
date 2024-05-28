@@ -5,7 +5,7 @@
 
 > [!infobox|wikipedia no-th]+
 > # NPC 1 Ally
-> ![placeholder.bmp](../../A%20Assets/placeholder.bmp)
+> ![[placeholder.bmp]]
 > ### Basic Information
 > | Type |  Stat |
 > | --- | --- |
@@ -21,7 +21,7 @@
 > | --- | --- |
 > | Disposition | Ally |
 > | Party Relation | `=this.party-relationship` |
-> | Groups | [[testing/02 full examples/Faction A.md|Faction A]] |
+> | Groups | [[testing/02 full examples/Faction A\|Faction A]] |
 > | Family | `=this.family`  |
 > ### Locations
 > | Type |  Stat |

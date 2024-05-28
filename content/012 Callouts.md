@@ -14,7 +14,7 @@
 
 
 > [!info] This one has dataview in it...
->  - [[012 Callouts.md|012 Callouts]]
+>  - [[012 Callouts\|012 Callouts]]
 > 
 
 > [!success] this one has a friggin note embedded in it 

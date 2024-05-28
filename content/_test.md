@@ -5,13 +5,13 @@
 
 > [!info|foo]+
 > # _test
-> ![placeholder.bmp](A%20Assets/placeholder.bmp)
+> ![[placeholder.bmp]]
 > ###### Geography
 > | Type |  Stat |
 > | --- | --- |
 > | Type | Settlement |
 > | Size | `=this.size` |
-> | Region | [[testing/01 link examples/example province.md|example province]],[[testing/01 link examples/example country.md|example country]] |
+> | Region | [[testing/01 link examples/example province\|example province]],[[testing/01 link examples/example country\|example country]] |
 > ###### Society
 > | Type |  Stat |
 > | --- | --- |
@@ -57,8 +57,8 @@
 ## Additional Details
 
 
-[[testing/01 link examples/example province.md|example province]]<br>[[testing/01 link examples/example country.md|example country]]
+[[testing/01 link examples/example province\|example province]]<br>[[testing/01 link examples/example country\|example country]]
 
 # Scratch zone
 
-![placeholder - Copy.png](A%20Assets/placeholder%20-%20Copy.png)
+![[placeholder - Copy.png]]

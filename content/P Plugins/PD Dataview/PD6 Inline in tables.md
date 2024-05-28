@@ -6,5 +6,5 @@
 | Cat    | Data           |
 | ------ | -------------- |
 | Race   | AAA   |
-| Age    | [[P Plugins/PD Dataview/PD1 Dataview.md|PD1 Dataview]]    |
+| Age    | [[P Plugins/PD Dataview/PD1 Dataview\|PD1 Dataview]]    |
 | Gender | `=this.gender` |

@@ -5,13 +5,13 @@
 
 > [!infobox|wikipedia no-th]+
 > # example city
-> ![placeholder - Copy - Copy.png](../../A%20Assets/deeper%20assets/placeholder%20-%20Copy%20-%20Copy.png)
+> ![[placeholder - Copy - Copy.png]]
 > ###### Geography
 > | Type |  Stat |
 > | --- | --- |
 > | Type | Settlement |
 > | Size | `=this.size` |
-> | Region | [[testing/01 link examples/example province.md|example province]],[[testing/01 link examples/example country.md|example country]] |
+> | Region | [[testing/01 link examples/example province\|example province]],[[testing/01 link examples/example country\|example country]] |
 > ###### Society
 > | Type |  Stat |
 > | --- | --- |
@@ -57,7 +57,7 @@
 ## Additional Details
 
 
-[[testing/01 link examples/example province.md|example province]]<br>[[testing/01 link examples/example country.md|example country]]
+[[testing/01 link examples/example province\|example province]]<br>[[testing/01 link examples/example country\|example country]]
 
 # Scratch zone
 

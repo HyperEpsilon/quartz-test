@@ -2,7 +2,7 @@
 publish: true
 ---
 Link with whitespace after link part: 
-[[Empty file | hehe this one breaks for real]]
+[[Empty file \| hehe this one breaks for real]]
 
 Whitespace and bar in name: 
 

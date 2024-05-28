@@ -28,6 +28,6 @@ This test vault enables snapshot testing of the garden compilation! To generate 
 
 This garden should have the following plugins 
 
-- [x] [[PE1 Transcluded excalidraw]]
-- [x] [[PD1 Dataview]]
+- [x] [[P Plugins/PE Excalidraw/PE1 Transcluded excalidraw\|PE1 Transcluded excalidraw]]
+- [x] [[P Plugins/PD Dataview/PD1 Dataview\|PD1 Dataview]]
 - [x] hot reload (reloads obsidian dev plugins on changes)
