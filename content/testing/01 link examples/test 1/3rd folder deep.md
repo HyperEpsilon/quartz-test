@@ -15,3 +15,8 @@
 | File                                                                    | publish | embed(image)                                                                             |
 | ----------------------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------- |
 | [[testing/01 link examples/test 1/3rd folder deep\|3rd folder deep]] | true    | ![[A Assets/deeper assets/placeholder - Copy - Copy.png\|placeholder - Copy - Copy.png]] |
+
+[[testing/01 link examples/Untitled 1\|Untitled 1]] 
+
+[[testing/01 link examples/test 1/3rd folder deep\|3rd folder deep]]
+
