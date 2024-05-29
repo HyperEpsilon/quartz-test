@@ -21,3 +21,7 @@
 [[testing/01 link examples/test 1/3rd folder deep\|3rd folder deep]]
 
 ![../../../A Assets/deeper assets/placeholder - Copy - Copy.png|test text](../../../A%20Assets/deeper%20assets/placeholder%20-%20Copy%20-%20Copy.png)
+
+
+![[A Assets/deeper assets/placeholder - Copy - Copy.png\|placeholder - Copy - Copy.png]]
+
