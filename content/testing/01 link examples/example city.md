@@ -61,4 +61,7 @@
 
 # Scratch zone
 
-a
+[[000 Home\|000 Home]]
+
+[[placeholder - Copy - Copy.png]]
+
