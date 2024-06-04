@@ -21,7 +21,7 @@
 > | --- | --- |
 > | Disposition | Ally |
 > | Party Relation | `=this.party-relationship` |
-> | Groups | [[testing/02 full examples/Faction B.md|Faction B]] |
+> | Groups | [[testing/02 full examples/Faction B\|Faction B]] |
 > | Family | `=this.family`  |
 > ### Locations
 > | Type |  Stat |

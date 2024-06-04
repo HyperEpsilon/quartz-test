@@ -2,7 +2,7 @@
 publish: true
 ---
 Link to header should keep header link info
-[[000 Home#Welcome]]
+[[000 Home#Welcome\|000 Home#Welcome]]
 
 Link to header with special characters should work
 

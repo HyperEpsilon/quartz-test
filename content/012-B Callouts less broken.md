@@ -1,7 +1,6 @@
 ---
-{"publish":true,"path":"012-B Callouts less broken.md","permalink":"/012-b-callouts-less-broken/","PassFrontmatter":true}
+publish: true
 ---
-
 
 > [!info]
 > This is a callout

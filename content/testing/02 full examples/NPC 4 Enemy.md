@@ -21,7 +21,7 @@
 > | --- | --- |
 > | Disposition | Enemy |
 > | Party Relation | `=this.party-relationship` |
-> | Groups | [[testing/02 full examples/Faction B.md|This faction, grudingly]] |
+> | Groups | [[testing/02 full examples/Faction B\|This faction, grudingly]] |
 > | Family | `=this.family`  |
 > ### Locations
 > | Type |  Stat |

@@ -1,7 +1,6 @@
 ---
-{"publish":true,"path":"012 Callouts.md","permalink":"/012-callouts/","PassFrontmatter":true}
+publish: true
 ---
-
 #known-issue 
 
 > [!info]
@@ -14,7 +13,7 @@
 
 
 > [!info] This one has dataview in it...
->  - [[012 Callouts.md|012 Callouts]]
+>  - [[012 Callouts\|012 Callouts]]
 > 
 
 > [!success] this one has a friggin note embedded in it 
