@@ -23,7 +23,7 @@
 > | --- | --- |
 > | Disposition | `=this.party-disposition` |
 > | Allegiances | `=this.group-allegiances` |
-> | Enemies | [[testing/02 full examples/Faction A\|Faction A]],[[testing/02 full examples/Faction B\|Faction B]]  |
+> | Enemies | [[testing/02 full examples/Faction A.md|Faction A]],[[testing/02 full examples/Faction B.md|Faction B]]  |
 
 
 ## Overview
@@ -50,9 +50,9 @@
 
 
 > [!NOTE]+ NPCs
->  - [[testing/02 full examples/NPC 2 Ally\|NPC 2 Ally]]
-> - [[testing/02 full examples/NPC 4 Enemy\|NPC 4 Enemy]]
-> - [[testing/02 full examples/NPC 3 Ally\|NPC 3 Ally]]
+>  - [[testing/02 full examples/NPC 2 Ally.md|NPC 2 Ally]]
+> - [[testing/02 full examples/NPC 3 Ally.md|NPC 3 Ally]]
+> - [[testing/02 full examples/NPC 4 Enemy.md|NPC 4 Enemy]]
 > 
 
 

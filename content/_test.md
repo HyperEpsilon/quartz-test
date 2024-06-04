@@ -11,7 +11,7 @@
 > | --- | --- |
 > | Type | Settlement |
 > | Size | `=this.size` |
-> | Region | [[testing/01 link examples/example province\|example province]],[[testing/01 link examples/example country\|example country]] |
+> | Region | [[testing/01 link examples/example province.md|example province]],[[testing/01 link examples/example country.md|example country]] |
 > ###### Society
 > | Type |  Stat |
 > | --- | --- |
@@ -57,7 +57,7 @@
 ## Additional Details
 
 
-[[testing/01 link examples/example province\|example province]]<br>[[testing/01 link examples/example country\|example country]]
+[[testing/01 link examples/example province.md|example province]]<br>[[testing/01 link examples/example country.md|example country]]
 
 # Scratch zone
 
