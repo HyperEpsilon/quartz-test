@@ -5,7 +5,7 @@
 
 > [!infobox|wikipedia no-th]+
 > # NPC 4 Enemy
-> ![placeholder.bmp](../../A%20Assets/placeholder.bmp)
+> ![[placeholder.bmp]]
 > ### Basic Information
 > | Type |  Stat |
 > | --- | --- |

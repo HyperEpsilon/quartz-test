@@ -5,7 +5,7 @@
 
 > [!infobox|wikipedia no-th]+
 > # Faction B
-> ![placeholder.bmp](../../A%20Assets/placeholder.bmp)
+> ![[placeholder.bmp]]
 > ### Basic Information
 > | Type |  Stat |
 > | --- | --- |

@@ -76,7 +76,7 @@ publish: true
 
 Bonus pic: 
 
-![travolta.png|100](../../A%20Assets/travolta.png)
+![[travolta.png|100]]
 
 
 

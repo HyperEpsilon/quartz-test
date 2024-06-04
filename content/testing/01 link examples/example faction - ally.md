@@ -5,7 +5,7 @@
 
 > [!infobox|wikipedia no-th]+
 > # example faction - ally
-> ![placeholder - Copy.png](../../A%20Assets/placeholder%20-%20Copy.png)
+> ![[placeholder - Copy.png]]
 > ### Basic Information
 > | Type |  Stat |
 > | --- | --- |

@@ -5,7 +5,7 @@
 
 > [!infobox|wikipedia no-th]+
 > # example city
-> ![placeholder - Copy - Copy.png](../../A%20Assets/deeper%20assets/placeholder%20-%20Copy%20-%20Copy.png)
+> ![[placeholder - Copy - Copy.png]]
 > ###### Geography
 > | Type |  Stat |
 > | --- | --- |
