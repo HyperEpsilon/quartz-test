@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"path":"012-B Callouts less broken.md","permalink":"/012-b-callouts-less-broken/","PassFrontmatter":true}
 ---
+
 
 > [!info]
 > This is a callout
@@ -12,7 +13,33 @@ publish: true
 
 #known-issue 
 > [!success] this one has a friggin note embedded in it 
-> ![[File with code blocks|File with code blocks]]
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+```js
+const asdf = 0
+asdf++
+```
+
+```json
+{
+	gotta: "love-dat-josn"
+}
+```
+
+```
+this is just text i guess
+```
+
+`bonus oneliner`
+
+
+
+</div></div>
+
 
 
 

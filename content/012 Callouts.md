@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"path":"012 Callouts.md","permalink":"/012-callouts/","PassFrontmatter":true}
 ---
+
 #known-issue 
 
 > [!info]
@@ -13,10 +14,36 @@ publish: true
 
 
 > [!info] This one has dataview in it...
->  - [[012 Callouts.md|012 Callouts]]
+>  - [[012 Callouts\|012 Callouts]]
 > 
 
 > [!success] this one has a friggin note embedded in it 
-> ![[File with code blocks|File with code blocks]]
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+```js
+const asdf = 0
+asdf++
+```
+
+```json
+{
+	gotta: "love-dat-josn"
+}
+```
+
+```
+this is just text i guess
+```
+
+`bonus oneliner`
+
+
+
+</div></div>
+
 
 

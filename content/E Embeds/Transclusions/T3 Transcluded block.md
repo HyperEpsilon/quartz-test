@@ -4,4 +4,12 @@ publish: true
 
 Below it should just say "cheese": 
 
-![[1 File with bookmarked block#^c954d2|1 File with bookmarked block]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+cheese 
+
+</div></div>
+

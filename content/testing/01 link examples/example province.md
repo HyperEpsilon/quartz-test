@@ -1,16 +1,7 @@
 ---
-created: 2024-03-13T17:27
-last-updated: 2024-03-13T17:29:05
-tags:
-  - Location/Region
-publish: true
-note-icon: region
-templater:
-  - "[[template - region|template - region]]"
-size: 
-region:
-  - "[[example country|example country]]"
+{"created":"2024-03-13T17:27","last-updated":"2024-03-13T17:29:05","tags":["Location/Region"],"publish":true,"note-icon":"region","templater":["[[template - region]]"],"size":null,"region":["[[example country]]"],"path":"testing/01 link examples/example province.md","permalink":"/testing/01-link-examples/example-province/","PassFrontmatter":true}
 ---
+
 
 ## Overview
 
@@ -38,6 +29,6 @@ region:
 ## Additional Details
 
 
-[[testing/01 link examples/example country.md|example country]]
+[[testing/01 link examples/example country\|example country]]
 # Scratch zone
 

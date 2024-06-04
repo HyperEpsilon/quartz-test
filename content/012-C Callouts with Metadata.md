@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"path":"012-C Callouts with Metadata.md","permalink":"/012-c-callouts-with-metadata/","PassFrontmatter":true}
 ---
+
 
 
 > [!NOTE] Standard callout

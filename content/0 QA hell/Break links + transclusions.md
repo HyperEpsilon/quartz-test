@@ -2,19 +2,77 @@
 publish: true
 ---
 Link with whitespace after link part: 
-[[Empty file | hehe this one breaks for real]]
+[[Empty file \| hehe this one breaks for real]]
 
 Whitespace and bar in name: 
-![[Empty file|         whitespace.   | whoa what's this]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# whitespace.
+
+</div>
+
+
+
+
+</div></div>
+
 
 Random hashes in transclusion title: 
-![[Empty file|## ## i think i fixed this one ## earlier #lol]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+## ## i think i fixed this one ## earlier #lol
+
+</div>
+
+
+
+
+</div></div>
+
 
 This is a header ref which doesn't exist: 
-![[0 File with headers#whodis|0 File with headers > whodis]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+This is above the header
+## Header
+
+This should be in this header block
+
+## Another header
+
+This shouldn't be under a header transclusion
+
+
+
+Cheese 
+
+</div></div>
+
 
 
 This is a header transclusion that is slightly that uses a special character in the header
 
-![[0 File with headers#Header?|0 File with headers > Header?]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+## Header
+
+This should be in this header block
+
+
+</div></div>
+
 

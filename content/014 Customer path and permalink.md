@@ -1,7 +1,6 @@
 ---
-publish: true
-path: custom path/should not overwrite permalink
-permalink: custom link/shouldBeDifferentToPath
+{"publish":true,"path":"014 Customer path and permalink.md","permalink":"/custom link/shouldBeDifferentToPath/","PassFrontmatter":true}
 ---
+
 
 a

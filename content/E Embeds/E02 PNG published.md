@@ -3,4 +3,4 @@ publish: true
 ---
 
 
-![[travolta.png|travolta.png]]
+![travolta.png](../A%20Assets/travolta.png)

@@ -1,54 +1,33 @@
 ---
-created: 2024-04-25T16:10
-last-updated: 2024-04-25T16:10
-tags:
-  - People/NPC
-titles: 
-aliases: 
-gender: 
-race: 
-age: 
-condition: 
-occupation: 
-party-relationship: 
-party-disposition: Ally
-associated-groups:
-  - "[[Faction A|Faction A]]"
-  - "[[Faction B|Faction B]]"
-family: 
-locations-home: 
-locations-active: 
-publish: true
-note-icon: npc
-templater:
-  - "[[template - npc|template - npc]]"
+{"created":"2024-04-25T16:10","last-updated":"2024-04-25T16:10","tags":["People/NPC"],"titles":null,"aliases":null,"gender":null,"race":null,"age":null,"condition":null,"occupation":null,"party-relationship":null,"party-disposition":"Ally","associated-groups":["[[Faction A]]","[[Faction B]]"],"family":null,"locations-home":null,"locations-active":null,"publish":true,"note-icon":"npc","templater":["[[template - npc]]"],"path":"testing/02 full examples/NPC 2 Ally.md","permalink":"/testing/02-full-examples/npc-2-ally/","PassFrontmatter":true}
 ---
+
 
 > [!infobox|wikipedia no-th]+
 > # NPC 2 Ally
-> ![[placeholder.bmp|placeholder.bmp]]
+> ![placeholder.bmp](../../A%20Assets/placeholder.bmp)
 > ### Basic Information
 > | Type |  Stat |
 > | --- | --- |
-> | Titles |  |
-> | Aliases |  |
-> | Gender |  |
-> | Race |  |
-> | Age |  |
-> | Condition |  |
-> | Occupation |  |
+> | Titles | `=this.titles` |
+> | Aliases | `=this.aliases` |
+> | Gender | `=this.gender` |
+> | Race | `=this.race` |
+> | Age | `=this.age` |
+> | Condition | `=this.condition` |
+> | Occupation | `=this.occupation` |
 > ### Relationships
 > | Type |  Stat |
 > | --- | --- |
 > | Disposition | Ally |
-> | Party Relation |  |
-> | Groups | [[testing/02 full examples/Faction A.md|Faction A]],[[testing/02 full examples/Faction B.md|Faction B]] |
-> | Family |   |
+> | Party Relation | `=this.party-relationship` |
+> | Groups | [[testing/02 full examples/Faction A\|Faction A]],[[testing/02 full examples/Faction B\|Faction B]] |
+> | Family | `=this.family`  |
 > ### Locations
 > | Type |  Stat |
 > | --- | --- |
-> | Home |  |
-> | Active in |  |
+> | Home | `=this.locations-home` |
+> | Active in | `=this.locations-active` |
 
 
 ## Overview

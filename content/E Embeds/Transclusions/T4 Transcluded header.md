@@ -3,5 +3,16 @@ publish: true
 ---
 
 Below should be a header and one line of text: 
-![[0 File with headers#Header|0 File with headers > Header]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+## Header
+
+This should be in this header block
+
+
+</div></div>
+
 

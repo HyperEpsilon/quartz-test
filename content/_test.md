@@ -1,53 +1,34 @@
 ---
-created: 2024-04-22T16:16
-last-updated: 2024-04-22T16:16
-tags:
-  - Location/Settlement
-type: Settlement
-size: 
-region:
-  - "[[example province|example province]]"
-  - "[[example country|example country]]"
-demonym: 
-common-races: 
-religions: 
-guilds-groups: 
-government: 
-ruler: 
-imports: 
-exports: 
-publish: true
-note-icon: settlement
-templater:
-  - "[[template - settlement-town-city|template - settlement-town-city]]"
+{"created":"2024-04-22T16:16","last-updated":"2024-04-22T16:16","tags":["Location/Settlement"],"type":"Settlement","size":null,"region":["[[example province]]","[[example country]]"],"demonym":null,"common-races":null,"religions":null,"guilds-groups":null,"government":null,"ruler":null,"imports":null,"exports":null,"publish":true,"note-icon":"settlement","templater":["[[template - settlement-town-city]]"],"path":"_test.md","permalink":"/test/","PassFrontmatter":true}
 ---
+
 
 > [!info|foo]+
 > # _test
-> ![[placeholder.bmp|placeholder.bmp]]
+> ![placeholder.bmp](A%20Assets/placeholder.bmp)
 > ###### Geography
 > | Type |  Stat |
 > | --- | --- |
 > | Type | Settlement |
-> | Size |  |
-> | Region | [[testing/01 link examples/example province.md|example province]],[[testing/01 link examples/example country.md|example country]] |
+> | Size | `=this.size` |
+> | Region | [[testing/01 link examples/example province\|example province]],[[testing/01 link examples/example country\|example country]] |
 > ###### Society
 > | Type |  Stat |
 > | --- | --- |
-> | Demonym |  |
-> | Races |  |
-> | Religions |   |
-> | Guilds & Groups |  |
+> | Demonym | `=this.demonym` |
+> | Races | `=this.commonraces` |
+> | Religions | `=this.religion`  |
+> | Guilds & Groups | `=this.guilds-groups` |
 > ###### Politics
 > | Type |  Stat |
 > | --- | --- |
-> | Gov't Type |  |
-> | Ruler |  |
+> | Gov't Type | `=this.politics` |
+> | Ruler | `=this.leader` |
 > ###### Commerce
 > | Type |  Stat |
 > | --- | --- |
-> | Exports |  |
-> | Imports |  |
+> | Exports | `=this.exports` |
+> | Imports | `=this.imports` |
 
 ## Overview
 
@@ -76,8 +57,8 @@ templater:
 ## Additional Details
 
 
-[[testing/01 link examples/example province.md|example province]]<br>[[testing/01 link examples/example country.md|example country]]
+[[testing/01 link examples/example province\|example province]]<br>[[testing/01 link examples/example country\|example country]]
 
 # Scratch zone
 
-![[placeholder - Copy.png|placeholder - Copy.png]]
+![placeholder - Copy.png](A%20Assets/placeholder%20-%20Copy.png)
