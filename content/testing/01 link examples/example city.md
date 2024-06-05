@@ -74,3 +74,10 @@
 [[placeholder 1.bmp]]
 
 [[placeholder - Copy 1.png]] 
+
+
+Embed
+![[placeholder 1.bmp]]
+
+![[placeholder - Copy 1.png]] 
+
