@@ -65,4 +65,4 @@
 
 [[placeholder - Copy - Copy.png]]
 
-[[example province]]
+[[testing/01 link examples/example province\|example province]]
