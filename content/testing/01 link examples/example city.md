@@ -70,3 +70,5 @@
 [[005 Custom filters\|005 Custom filters]]
 
 [[testing with a space/Untitled with a space\|Untitled with a space]]
+
+[[placeholder 1.bmp]]
