@@ -72,3 +72,5 @@
 [[testing with a space/Untitled with a space\|Untitled with a space]]
 
 [[placeholder 1.bmp]]
+
+[[placeholder - Copy 1.png]] 
