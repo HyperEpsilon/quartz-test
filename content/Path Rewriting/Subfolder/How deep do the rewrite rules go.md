@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"path":"Subfolder/How deep do the rewrite rules go.md","permalink":"/subfolder/how-deep-do-the-rewrite-rules-go/","PassFrontmatter":true}
 ---
+
 With the rewrite rules: 
 
 ```
