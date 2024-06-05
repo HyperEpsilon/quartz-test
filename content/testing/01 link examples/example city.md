@@ -1,5 +1,5 @@
 ---
-{"created":"2024-04-22T16:16","last-updated":"2024-04-22T16:16","tags":["Location/Settlement"],"type":"Settlement","size":null,"region":["[[testing/01 link examples/example province\|example province]]","[[example country]]"],"demonym":null,"common-races":null,"religions":null,"guilds-groups":null,"government":null,"ruler":null,"imports":null,"exports":null,"publish":true,"note-icon":"settlement","templater":["[[template - settlement-town-city]]"],"path":"testing/01 link examples/example city.md","permalink":"/testing/01-link-examples/example-city/","PassFrontmatter":true}
+{"created":"2024-04-22T16:16","last-updated":"2024-04-22T16:16","tags":["Location/Settlement"],"type":"Settlement","size":null,"region":["[[example province]]","[[example country]]"],"demonym":null,"common-races":null,"religions":null,"guilds-groups":null,"government":null,"ruler":null,"imports":null,"exports":null,"publish":true,"note-icon":"settlement","templater":["[[template - settlement-town-city]]"],"path":"testing/01 link examples/example city.md","permalink":"/testing/01-link-examples/example-city/","PassFrontmatter":true}
 ---
 
 
@@ -65,4 +65,6 @@
 
 [[placeholder - Copy - Copy.png]]
 
-[[testing/01 link examples/example province\|example province]]
+[[005 Custom filters\|005 Custom filters]]
+
+[[testing with a space/Untitled with a space\|Untitled with a space]]
