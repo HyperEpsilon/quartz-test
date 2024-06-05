@@ -76,7 +76,7 @@
 [[placeholder - Copy 1.png]] 
 
 
-Embed
+Embed  
 ![[placeholder 1.bmp|placeholder 1.bmp|meta 1 meta 2|100]]
 
 ![[placeholder - Copy 1.png|placeholder - Copy 1.png|meta 1 meta 2|100]] 
