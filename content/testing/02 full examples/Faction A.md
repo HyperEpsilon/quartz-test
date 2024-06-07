@@ -52,8 +52,8 @@
 > [!NOTE]- NPCs
 > One dataview query: query all NPC with `associated-groups` matching this one
 
-- [[testing/02 full examples/NPC 2 Ally\|NPC 2 Ally]]
 - [[testing/02 full examples/NPC 1 Ally\|NPC 1 Ally]]
+- [[testing/02 full examples/NPC 2 Ally\|NPC 2 Ally]]
 
 
 # Scratch zone

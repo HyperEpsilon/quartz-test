@@ -4,3 +4,6 @@
 
 [[Q QA & Testing/frontmatter link replacement/00 File to be linked to\|but with a different name]]
 
+[[Q QA & Testing/frontmatter link replacement/00 File to be linked to#^93142a\|00 File to be linked to#^93142a]]
+
+[[Q QA & Testing/frontmatter link replacement/00 File to be linked to\|00 File to be linked to]]
