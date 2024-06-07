@@ -1,6 +1,7 @@
 ---
-publish: true
+{"publish":true,"path":"P Plugins/PE Excalidraw/PE2 excalidraw with image.md","permalink":"/p-plugins/pe-excalidraw/pe-2-excalidraw-with-image/","PassFrontmatter":true}
 ---
+
 #known-issue 
 
 
