@@ -1,15 +1,14 @@
 ---
-publish: true
+{"publish":true,"path":"E Embeds/Transclusions/T1 BaseFile.md","permalink":"/e-embeds/transclusions/t1-base-file/","PassFrontmatter":true}
 ---
+
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
----
-publish: false
----
+
 How deep can you go? 
 
 [[E Embeds/Transclusions/files/T4 Deeper\|T4 Deeper]]
@@ -24,9 +23,7 @@ How deep can you go?
 </div>
 
 
----
-publish: false
----
+
 I can go deeper!
 
 
@@ -34,9 +31,7 @@ I can go deeper!
 
 
 
----
-publish: false
----
+
 There must be a limit!!!
 
 [[E Embeds/Transclusions/T1 BaseFile\|T1 BaseFile]] recursive linking yay
@@ -46,9 +41,7 @@ There must be a limit!!!
 
 
 
----
-publish: false
----
+
 This is as far as we can go! Or is it???
 
 ![[E Embeds/Transclusions/T2 Too deep to transclude\| This transclusion will be left out :(())]]

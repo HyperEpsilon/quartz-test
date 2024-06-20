@@ -83,3 +83,13 @@ Embed
 
 
 [[testing/01 link examples/example province\|example province]] 
+
+[[testing/02 full examples/Faction B\|Faction B]]
+
+[[testing/02 full examples/Faction B\|Faction B]]
+
+[[testing/01 link examples/example province\|example province]]
+
+[[testing/01 link examples/example country\|example country]]
+
+AAA
