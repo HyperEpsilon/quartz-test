@@ -4,9 +4,9 @@
 
 
 ### `![[img]]`
-![placeholder - Copy - Copy.png](../../../A%20Assets/deeper%20assets/placeholder%20-%20Copy%20-%20Copy.png)
+![[placeholder - Copy - Copy.png]]
 
 
 ### `![](img)`  
-![](../../../A%20Assets/deeper%20assets/placeholder%20-%20Copy%20-%20Copy.png)
+![](placeholder%20-%20Copy%20-%20Copy.png)
 
