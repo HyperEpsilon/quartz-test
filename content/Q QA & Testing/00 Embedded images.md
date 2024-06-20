@@ -8,5 +8,5 @@
 
 
 ### `![](img)`  
-![placeholder - Copy - Copy.png](../A Assets/deeper assets/placeholder - Copy - Copy.png)
+![](../A%20Assets/deeper%20assets/placeholder%20-%20Copy%20-%20Copy.png)
 
