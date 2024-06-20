@@ -3,10 +3,10 @@
 ---
 
 
-`![[img]]`
+### `![[img]]`
 ![[placeholder - Copy - Copy.png]]
 
 
-`![](img)`
+### `![](img)`  
 ![placeholder - Copy - Copy.png](../A Assets/deeper assets/placeholder - Copy - Copy.png)
 
