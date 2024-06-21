@@ -4,6 +4,6 @@
 
 Text before
 
-![[source]]
+![[source|bla no-head]]
 
 Text after
